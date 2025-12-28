@@ -33,6 +33,9 @@ Gompertz model
 
 ## performance evaluation 
 
+## Time Series 
+
+Intervented time-series data analysis 
 
 ## metabolomics 
 
