@@ -1,8 +1,12 @@
 main:
-  - title: "Learning" # "Posts"
+  - title: "Posts"
     url: /posts/
-  - title: "Research" # "Categories"
+  - title: "Categories"
     url: /categories/
+  - title: "Notes"
+    url: /notes/
+  - title: "Research"
+    url: /research/
   - title: "Tags"
     url: /tags/
   - title: "About"
