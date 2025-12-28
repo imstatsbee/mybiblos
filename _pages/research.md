@@ -11,9 +11,9 @@ author_profile: true
 
 decision tree, random forest, 
 
-## survival analysis 
+## Time-to-event and repeated measurements studies 
 
-interval censored data, 
+interval censored data analysis, accelerated failure model, Kaphlan-Meier, Cox-proportional Hazard model, 
 
 ## clinical trials 
 
@@ -44,6 +44,8 @@ biomarker development, bedside formula, feature selection,
 ## survey data analysis 
 
 structural equation model, factor analysis, 
+
+## Clustering and Classification 
 
 ## icu tricoder patch 
 
