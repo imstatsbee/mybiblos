@@ -5,7 +5,9 @@ layout: single
 author_profile: true
 ---
 
-## imprecise probabilities  
+#### imprecise probabilities  
+
+
 
 ## precision clinical decision support
 
@@ -19,7 +21,7 @@ interval censored data analysis, accelerated failure model, Kaphlan-Meier, Cox-p
 
 ## Meta Analysis 
 
-Cochran review 
+Cochran review, Bayesian network meta analysis,  
 
 ## Causal inference 
 
@@ -47,7 +49,8 @@ structural equation model, factor analysis,
 
 ## Clustering and Classification 
 
-## icu tricoder patch 
+#### icu tricoder patch 
+
+MIMIC, delirium, ARDS, GRV, ICU-AW, SOFA, ECMO, Hemorrhage, Sepsis, TPE, MV, Sedatives, Arrhythmias, Heart failure, COVID-19, Case-based learning, performance, well-being, burnout, critical reasoning, health service, cost-effectiveness 
 
 ## R-man
-
