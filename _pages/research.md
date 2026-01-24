@@ -49,7 +49,7 @@ structural equation model, factor analysis,
 
 ## Clustering and Classification 
 
-#### icu tricoder patch 
+#### icu tricoder/patch/enhancement
 
 MIMIC, delirium, ARDS, GRV, ICU-AW, SOFA, ECMO, Hemorrhage, Sepsis, TPE, MV, Sedatives, Arrhythmias, Heart failure, COVID-19, Case-based learning, performance, well-being, burnout, critical reasoning, health service, cost-effectiveness 
 

@@ -18,5 +18,8 @@ https://quarto.org/docs/authoring/markdown-basics.html
 
 * postgreSQL
 
+https://www.youtube.com/watch?v=dKuLA5BGPTY
+
 ## MIMIC
 
+https://github.com/MIT-LCP/mimic-code 
